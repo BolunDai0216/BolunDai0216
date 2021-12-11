@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BolunDai0216
 - 👀 I’m interested in machine learning and robotics
-- 📫 How to reach me at bd1555@nyu.edu
+- 📫 You can reach me at bd1555@nyu.edu
 
 <!---
 BolunDai0216/BolunDai0216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
