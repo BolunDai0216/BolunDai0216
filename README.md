@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BolunDai0216
-- 👀 I’m interested in machine learning and robotics
+- 👀 I’m interested in machine learning, control theory and robotics
 - 📫 You can reach me at bd1555@nyu.edu
 
 <!---
