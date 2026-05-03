@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BolunDai0216
+- 👋 Hi, I’m @BolunDai0216, I am a research scientist at Fauna Robotics working on developing the next generation of Humanoid robots.
 - 👀 I’m interested in machine learning, control theory and robotics
 - 📫 You can reach me at bd1555@nyu.edu
 
